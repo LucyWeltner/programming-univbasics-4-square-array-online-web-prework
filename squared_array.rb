@@ -1,11 +1,12 @@
-def square_array(array1)
+def square_array(array)
   counter = 0
   squared_array = []
-  while counter < array1.length do
-    element_squared = array1[counter]**2
+  while counter < array.length do
+    element_squared = array[counter]**2
     squared_array.push(element_squared)
-    counter += 1
   end
   return squared_array
   # your code here
 end
+
+p square_array([1,2,3,4])

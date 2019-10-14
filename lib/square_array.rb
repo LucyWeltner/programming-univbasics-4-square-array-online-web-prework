@@ -9,8 +9,4 @@ def square_array(array1)
   return squared_array
   # your code here
 end
-<<<<<<< HEAD
-=======
 
-p square_array([1,2,3,4])
->>>>>>> 543b032362cd4282d5ded8023b753069dd0d90b0

@@ -9,3 +9,4 @@ def square_array(array1)
   return squared_array
   # your code here
 end
+
